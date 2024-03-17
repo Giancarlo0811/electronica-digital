@@ -1,0 +1,2 @@
+# Circuito AND
+!(./Circuito.png)
