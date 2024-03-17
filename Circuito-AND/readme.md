@@ -1,2 +1,2 @@
 # Circuito AND
-!(./Circuito.png)
+![alt text](./Circuito.PNG)
